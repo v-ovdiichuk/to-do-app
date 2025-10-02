@@ -11,3 +11,9 @@
 - Відображення списку завдань
 - Видалення завдань
 - Збереження завдань у файл `tasks.json`
+
+## ▶️ Як запустити
+1. Клонувати репозиторій:
+   ```bash
+   git clone https://github.com/v-ovdiichuk/to-do-app.git
+   cd to-do-app
